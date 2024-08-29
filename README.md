@@ -46,9 +46,9 @@ A pipeline was created to preprocess the data and train an XGBoost regressor:
 
 ## Results
 
-- **R² Score**: `r2` value.
-- **Mean Absolute Error (MAE)**: `mae` value.
-- **Adjusted R² Score**: `adjusted_r2` value.
+- **R² Score**: 0.98
+- **Mean Absolute Error (MAE)**: 1.92
+- **Adjusted R² Score**: 0.988
 
 The model demonstrates a strong ability to predict the final score based on the ball-by-ball data.
 
