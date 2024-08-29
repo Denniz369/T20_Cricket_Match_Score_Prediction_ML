@@ -69,14 +69,7 @@ The model demonstrates a strong ability to predict the final score based on the 
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Special thanks to the developers of `pandas`, `tqdm`, `XGBoost`, and other libraries that made this project possible.
 
----
-
-Feel free to customize this README to better fit your project details.
