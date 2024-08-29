@@ -56,12 +56,6 @@ The model demonstrates a strong ability to predict the final score based on the 
 
 - The model pipeline is saved as `pipe.pkl`. You can load the model and make predictions on new data by loading the pipeline using `pickle`:
 
-   ```python
-   import pickle
-   model = pickle.load(open('models/pipe.pkl', 'rb'))
-   y_pred = model.predict(new_data)
-   ```
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
