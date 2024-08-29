@@ -7,10 +7,7 @@ This project aims to predict the final score of a cricket match using ball-by-ba
 
 - **data/**: Contains the raw YAML files of T20 cricket matches.
 - **notebooks/**: Jupyter notebooks used for data exploration, feature engineering, and model building.
-- **models/**: Contains the saved model pipeline (`pipe.pkl`).
-- **src/**: Python scripts for data processing, feature engineering, and model training.
 - **README.md**: Project documentation.
-- **requirements.txt**: List of Python dependencies required for the project.
 
 ## Data Description
 
